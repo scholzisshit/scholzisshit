@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scholzisshit
 - 👀 I’m interested in becoming a polymath
-- 🌱 I’m currently learning javascript 
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me scholzisshit@gmail.com
 - 😄 Pronouns: he/him
